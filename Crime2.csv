@@ -1,0 +1,626 @@
+Country	Crime Index	Year
+South Sudan	85.32	2015
+Venezuela	84.07	2015
+Guatemala	79.34	2015
+South Africa	78.44	2015
+Afghanistan	77.34	2015
+Guyana	76.88	2015
+Nigeria	76.6	2015
+Trinidad And Tobago	75.28	2015
+Honduras	74.91	2015
+Bahamas	72.93	2015
+Kenya	72.61	2015
+Jamaica	71.91	2015
+Mongolia	70.25	2015
+Malaysia	69.97	2015
+Papua New Guinea	69.89	2015
+Libya	69.64	2015
+El Salvador	69.44	2015
+Brazil	68.95	2015
+Maldives	68.75	2015
+Angola	67.97	2015
+Dominican Republic	67.72	2015
+Puerto Rico	67.06	2015
+Bolivia	65.6	2015
+Somalia	65.6	2015
+Bangladesh	64.25	2015
+Costa Rica	63.05	2015
+Argentina	62.4	2015
+Zimbabwe	62.18	2015
+Tanzania	61.8	2015
+Pakistan	61.16	2015
+Egypt	60.14	2015
+Uganda	59.41	2015
+Peru	57.63	2015
+Colombia	56.88	2015
+Syria	56.32	2015
+Namibia	55.59	2015
+Paraguay	55.57	2015
+Iraq	54.06	2015
+Ecuador	54.04	2015
+Mexico	53.84	2015
+Vietnam	52.29	2015
+Lebanon	51.98	2015
+Algeria	51.34	2015
+Russia	51.33	2015
+Iran	50.9	2015
+Panama	50.08	2015
+United States	50.01	2015
+Sri Lanka	49.96	2015
+France	49.71	2015
+Moldova	49.7	2015
+Albania	49.6	2015
+Fiji	49.44	2015
+Ghana	49.42	2015
+Ukraine	49.36	2015
+Nepal	49.18	2015
+Ireland	49.07	2015
+Mauritius	48.53	2015
+Morocco	47.55	2015
+Italy	47.5	2015
+Indonesia	47.22	2015
+Uruguay	47.17	2015
+Kazakhstan	46.68	2015
+India	46.55	2015
+Bosnia And Herzegovina	45.82	2015
+Jordan	45.51	2015
+Chile	45.01	2015
+Cambodia	44.06	2015
+Kuwait	43.51	2015
+Bulgaria	43.45	2015
+Serbia	43.43	2015
+Philippines	43.11	2015
+Tunisia	42.67	2015
+Australia	42.16	2015
+Sweden	42.09	2015
+Belgium	42.04	2015
+United Kingdom	42.01	2015
+Hungary	41.76	2015
+China	41.75	2015
+Greece	41.35	2015
+Bahrain	39.97	2015
+New Zealand	39.76	2015
+Canada	37.46	2015
+Latvia	37.22	2015
+Thailand	37.06	2015
+Lithuania	36.69	2015
+Turkey	36.4	2015
+North Macedonia	36.06	2015
+Portugal	35.84	2015
+Luxembourg	35.74	2015
+Azerbaijan	35.47	2015
+Netherlands	35.41	2015
+Palestine	35.39	2015
+Ethiopia	35.07	2015
+Montenegro	34.89	2015
+Saudi Arabia	34.57	2015
+Oman	34.43	2015
+Spain	33.85	2015
+Slovakia	33.34	2015
+Iceland	33.32	2015
+Poland	32.99	2015
+Czech Republic	32.89	2015
+Cyprus	31.56	2015
+Norway	31.19	2015
+Belarus	30.5	2015
+Israel	30.4	2015
+Brunei	30.35	2015
+Romania	29.72	2015
+Finland	29.55	2015
+Croatia	29.34	2015
+Armenia	29.14	2015
+Slovenia	28.71	2015
+Germany	28.49	2015
+Estonia	28.13	2015
+Switzerland	26.77	2015
+Austria	26.25	2015
+Malta	25.91	2015
+Denmark	25.71	2015
+United Arab Emirates	22.22	2015
+Georgia	22.01	2015
+Taiwan	21.88	2015
+Qatar	21.04	2015
+Japan	20.24	2015
+Hong Kong	19.24	2015
+South Korea	17.99	2015
+Singapore	17.59	2015
+Venezuela	84.44	2016
+South Sudan	81.32	2016
+South Africa	78.43	2016
+Afghanistan	77.92	2016
+Papua New Guinea	77.58	2016
+Honduras	76.43	2016
+Nigeria	74.14	2016
+Trinidad And Tobago	72.60	2016
+Guyana	72.12	2016
+El Salvador	72.04	2016
+Brazil	71.23	2016
+Kenya	69.49	2016
+Bahamas	69.41	2016
+Bangladesh	68.56	2016
+Malaysia	68.55	2016
+Angola	66.95	2016
+Puerto Rico	65.92	2016
+Jamaica	65.53	2016
+Peru	64.00	2016
+Guatemala	63.54	2016
+Argentina	63.28	2016
+Dominican Republic	63.25	2016
+Namibia	60.89	2016
+Zimbabwe	60.02	2016
+Tanzania	60.02	2016
+Uganda	59.31	2016
+Libya	57.81	2016
+Mongolia	57.76	2016
+Algeria	57.58	2016
+Costa Rica	57.56	2016
+Pakistan	56.63	2016
+Bolivia	56.56	2016
+Egypt	56.53	2016
+Somalia	55.72	2016
+Vietnam	55.69	2016
+Syria	54.73	2016
+Mauritius	53.69	2016
+Uruguay	53.06	2016
+Ecuador	52.95	2016
+Panama	52.69	2016
+Paraguay	52.50	2016
+Fiji	52.42	2016
+Iran	52.37	2016
+Iraq	51.51	2016
+Mexico	50.80	2016
+Lebanon	50.56	2016
+Morocco	50.28	2016
+Ghana	49.01	2016
+United States	48.87	2016
+Ukraine	48.62	2016
+Colombia	48.51	2016
+Ireland	48.39	2016
+Cambodia	48.17	2016
+Moldova	48.16	2016
+Albania	48.15	2016
+Montenegro	47.80	2016
+Russia	47.31	2016
+Indonesia	46.97	2016
+Jordan	46.89	2016
+India	46.59	2016
+Sri Lanka	46.26	2016
+Italy	46.22	2016
+Kazakhstan	45.88	2016
+Belgium	45.19	2016
+Maldives	45.02	2016
+France	44.06	2016
+Serbia	43.28	2016
+Lithuania	43.15	2016
+United Kingdom	43.13	2016
+Australia	43.12	2016
+Sweden	43.12	2016
+Thailand	42.56	2016
+Bosnia And Herzegovina	42.46	2016
+Nepal	42.15	2016
+Chile	42.00	2016
+Hungary	41.93	2016
+Bulgaria	41.42	2016
+Turkey	39.43	2016
+Canada	39.20	2016
+Tunisia	38.90	2016
+Greece	38.46	2016
+North Macedonia	38.02	2016
+Latvia	37.79	2016
+Philippines	37.61	2016
+Bahrain	37.26	2016
+Brunei	36.96	2016
+Palestine	36.90	2016
+New Zealand	36.37	2016
+Kuwait	36.04	2016
+Luxembourg	36.03	2016
+Portugal	35.13	2016
+Ethiopia	34.19	2016
+Slovakia	33.49	2016
+Germany	32.95	2016
+Azerbaijan	32.39	2016
+China	32.08	2016
+Czech Republic	32.06	2016
+Spain	31.77	2016
+Netherlands	31.47	2016
+Poland	31.41	2016
+Armenia	31.11	2016
+Israel	30.63	2016
+Cyprus	30.19	2016
+Norway	30.11	2016
+Iceland	29.89	2016
+Romania	29.72	2016
+Croatia	29.51	2016
+Oman	28.98	2016
+Finland	28.12	2016
+Belarus	27.57	2016
+Malta	26.73	2016
+Slovenia	26.27	2016
+Switzerland	25.73	2016
+Denmark	25.67	2016
+Saudi Arabia	25.20	2016
+Estonia	24.67	2016
+Austria	24.06	2016
+United Arab Emirates	23.08	2016
+Qatar	22.34	2016
+Georgia	22.16	2016
+Taiwan	21.21	2016
+Hong Kong	20.85	2016
+Japan	19.34	2016
+Singapore	15.81	2016
+South Korea	14.31	2016
+Venezuela	85.28	2017
+Papua New Guinea	82.38	2017
+Honduras	78.34	2017
+South Sudan	78.18	2017
+South Africa	75.72	2017
+Afghanistan	73.85	2017
+El Salvador	71.57	2017
+Nigeria	70.87	2017
+Brazil	70.62	2017
+Trinidad And Tobago	70.15	2017
+Puerto Rico	69.19	2017
+Guyana	67.66	2017
+Mongolia	67.62	2017
+Jamaica	67.48	2017
+Bangladesh	67.24	2017
+Syria	66.34	2017
+Angola	65.51	2017
+Kenya	64.96	2017
+Malaysia	64.75	2017
+Peru	63.28	2017
+Bahamas	63.21	2017
+Namibia	63.09	2017
+Argentina	62.63	2017
+Dominican Republic	62.62	2017
+Tanzania	61.39	2017
+Guatemala	59.58	2017
+Bolivia	59.5	2017
+Somalia	58.83	2017
+Uganda	56.87	2017
+Costa Rica	55.94	2017
+Fiji	55.6	2017
+Cambodia	54.61	2017
+Libya	54.47	2017
+Pakistan	54.38	2017
+Iraq	54.35	2017
+Zimbabwe	53.46	2017
+Vietnam	52.96	2017
+Egypt	52.86	2017
+Colombia	51.69	2017
+Uruguay	51.64	2017
+Ukraine	51.27	2017
+Mauritius	51.13	2017
+Iran	50.9	2017
+Ecuador	50.88	2017
+Mexico	50.32	2017
+Panama	50.01	2017
+Thailand	49.78	2017
+Indonesia	49.68	2017
+Algeria	49.63	2017
+Paraguay	49.6	2017
+Ethiopia	49.18	2017
+Lebanon	49.16	2017
+Morocco	48.89	2017
+United States	48.76	2017
+Kazakhstan	48.29	2017
+Chile	47.5	2017
+Ghana	46.99	2017
+Maldives	46.98	2017
+Sweden	46.65	2017
+Russia	46.05	2017
+Ireland	45.77	2017
+Norway	45.69	2017
+Moldova	45.35	2017
+Italy	44.66	2017
+Belgium	44.51	2017
+Albania	44.27	2017
+India	43.96	2017
+France	43.66	2017
+Jordan	43.14	2017
+Australia	42.42	2017
+United Kingdom	41.19	2017
+Turkey	41.09	2017
+Bosnia And Herzegovina	40.97	2017
+Tunisia	40.94	2017
+Greece	40.32	2017
+Bulgaria	40.18	2017
+Lithuania	40.03	2017
+Philippines	39.77	2017
+Canada	39.25	2017
+New Zealand	38.78	2017
+Montenegro	38.67	2017
+North Macedonia	38.66	2017
+Serbia	38.62	2017
+Hungary	38.39	2017
+Palestine	38.01	2017
+Nepal	37.15	2017
+Latvia	36.45	2017
+Brunei	36.07	2017
+Portugal	35.39	2017
+Bahrain	35.35	2017
+Sri Lanka	34.57	2017
+China	33.9	2017
+Kuwait	33.48	2017
+Cyprus	32.46	2017
+Germany	32.03	2017
+Poland	31.53	2017
+Spain	31.28	2017
+Malta	30.56	2017
+Slovakia	30.18	2017
+Czech Republic	30.18	2017
+Netherlands	29.89	2017
+Luxembourg	29.04	2017
+Israel	29.01	2017
+Romania	27.95	2017
+Croatia	27.8	2017
+Iceland	27.49	2017
+Armenia	27.08	2017
+Azerbaijan	27.05	2017
+South Korea	25.27	2017
+Finland	24.63	2017
+Oman	24.47	2017
+Slovenia	24.05	2017
+Saudi Arabia	23.65	2017
+Estonia	23	2017
+Switzerland	22.45	2017
+Belarus	22.26	2017
+Denmark	21.13	2017
+Japan	20.89	2017
+Georgia	20.83	2017
+Hong Kong	20.68	2017
+United Arab Emirates	20.66	2017
+Austria	19.25	2017
+Taiwan	17.24	2017
+Singapore	16.58	2017
+Qatar	15.7	2017
+Venezuela	82.59	2018
+Papua New Guinea	79.95	2018
+Honduras	78.89	2018
+South Sudan	75.94	2018
+South Africa	75.71	2018
+Afghanistan	74.40	2018
+Trinidad And Tobago	72.22	2018
+Brazil	70.55	2018
+El Salvador	69.72	2018
+Bangladesh	68.52	2018
+Namibia	68.22	2018
+Syria	67.74	2018
+Jamaica	66.87	2018
+Puerto Rico	64.94	2018
+Angola	64.53	2018
+Peru	63.91	2018
+Guyana	63.47	2018
+Nigeria	63.12	2018
+Malaysia	63.05	2018
+Mongolia	62.56	2018
+Argentina	61.79	2018
+Dominican Republic	61.53	2018
+Bahamas	60.16	2018
+Tanzania	59.83	2018
+Kenya	59.77	2018
+Guatemala	59.35	2018
+Fiji	58.95	2018
+Somalia	57.50	2018
+Uganda	56.77	2018
+Libya	56.74	2018
+Zimbabwe	54.56	2018
+Cambodia	54.38	2018
+Costa Rica	53.89	2018
+Egypt	53.72	2018
+Bolivia	52.89	2018
+Vietnam	52.22	2018
+Uruguay	51.83	2018
+Maldives	51.70	2018
+Pakistan	51.23	2018
+Mexico	51.05	2018
+Algeria	50.68	2018
+Colombia	50.66	2018
+United States	49.58	2018
+Iran	49.40	2018
+Ukraine	49.39	2018
+Sweden	49.26	2018
+Ecuador	49.18	2018
+Lebanon	49.16	2018
+Kazakhstan	49.15	2018
+Morocco	48.51	2018
+Panama	48.35	2018
+Mauritius	48.31	2018
+Ethiopia	47.67	2018
+Thailand	47.25	2018
+Paraguay	46.86	2018
+Chile	46.48	2018
+Moldova	45.66	2018
+France	45.29	2018
+Russia	45.20	2018
+Ghana	45.00	2018
+Indonesia	44.72	2018
+Jordan	44.55	2018
+Italy	44.53	2018
+India	44.16	2018
+Ireland	43.82	2018
+Iraq	43.34	2018
+Norway	43.33	2018
+Australia	42.55	2018
+Belgium	42.17	2018
+Sri Lanka	41.75	2018
+United Kingdom	41.20	2018
+Turkey	41.06	2018
+Tunisia	40.43	2018
+North Macedonia	40.21	2018
+Philippines	40.13	2018
+Bosnia And Herzegovina	40.05	2018
+Albania	39.87	2018
+Bulgaria	39.70	2018
+Nepal	39.51	2018
+China	39.44	2018
+Canada	39.28	2018
+New Zealand	39.15	2018
+Greece	39.07	2018
+Palestine	37.95	2018
+Serbia	37.76	2018
+Lithuania	37.59	2018
+Montenegro	37.51	2018
+Kuwait	37.03	2018
+Bahrain	36.96	2018
+Israel	36.90	2018
+Latvia	36.89	2018
+Spain	36.74	2018
+Saudi Arabia	36.69	2018
+Germany	36.65	2018
+Hungary	36.51	2018
+Poland	36.23	2018
+South Korea	35.83	2018
+Brunei	35.41	2018
+Portugal	34.54	2018
+Luxembourg	32.12	2018
+Malta	31.93	2018
+Azerbaijan	30.52	2018
+Cyprus	30.18	2018
+Slovakia	30.15	2018
+Romania	29.04	2018
+Netherlands	28.94	2018
+Czech Republic	28.81	2018
+Armenia	28.28	2018
+Oman	27.37	2018
+Croatia	27.00	2018
+Belarus	26.55	2018
+Slovenia	24.71	2018
+Iceland	24.49	2018
+Finland	23.70	2018
+Denmark	22.02	2018
+Switzerland	21.76	2018
+Hong Kong	20.90	2018
+Estonia	20.83	2018
+Taiwan	20.74	2018
+Austria	20.41	2018
+Georgia	20.35	2018
+United Arab Emirates	18.75	2018
+Singapore	16.23	2018
+Qatar	15.70	2018
+Japan	13.10	2018
+Venezuela	83.23	2019
+Papua New Guinea	79.88	2019
+Honduras	76.84	2019
+South Africa	76.80	2019
+Afghanistan	76.63	2019
+South Sudan	75.94	2019
+Trinidad And Tobago	74.04	2019
+Brazil	70.24	2019
+Namibia	68.66	2019
+El Salvador	68.08	2019
+Kazakhstan	66.51	2019
+Bangladesh	65.82	2019
+Puerto Rico	65.53	2019
+Jamaica	65.28	2019
+Peru	65.28	2019
+Nigeria	64.41	2019
+Syria	63.59	2019
+Angola	63.57	2019
+Argentina	62.55	2019
+Fiji	62.50	2019
+Dominican Republic	61.35	2019
+Malaysia	60.79	2019
+Somalia	60.10	2019
+Mongolia	59.76	2019
+Guyana	59.55	2019
+Libya	59.18	2019
+Tanzania	59.01	2019
+Bahamas	57.25	2019
+Costa Rica	56.05	2019
+Guatemala	55.92	2019
+Kenya	54.82	2019
+Bolivia	53.29	2019
+Maldives	53.29	2019
+Uganda	53.27	2019
+Mexico	52.30	2019
+Uruguay	52.01	2019
+Ghana	51.95	2019
+Zimbabwe	51.80	2019
+Cambodia	51.28	2019
+Colombia	51.26	2019
+Egypt	50.71	2019
+Morocco	50.24	2019
+Sweden	49.35	2019
+Iran	49.33	2019
+Ecuador	48.98	2019
+Ukraine	48.88	2019
+Vietnam	48.78	2019
+Algeria	48.33	2019
+Ethiopia	47.18	2019
+United States	47.13	2019
+Mauritius	46.81	2019
+Chile	46.81	2019
+Pakistan	46.73	2019
+Thailand	46.66	2019
+Panama	46.43	2019
+France	46.39	2019
+Indonesia	46.01	2019
+Iraq	45.56	2019
+China	45.46	2019
+Moldova	45.45	2019
+Italy	45.02	2019
+Ireland	44.52	2019
+Paraguay	44.27	2019
+Lebanon	44.27	2019
+Jordan	43.82	2019
+Bosnia And Herzegovina	43.79	2019
+Australia	42.76	2019
+India	42.72	2019
+United Kingdom	42.72	2019
+Belgium	42.46	2019
+Tunisia	42.29	2019
+Russia	41.93	2019
+Sri Lanka	41.03	2019
+Philippines	40.83	2019
+Montenegro	40.48	2019
+Turkey	40.38	2019
+Albania	40.30	2019
+Bulgaria	40.00	2019
+New Zealand	39.55	2019
+Canada	39.51	2019
+North Macedonia	39.29	2019
+Greece	38.57	2019
+Serbia	37.27	2019
+Palestine	36.99	2019
+Latvia	36.77	2019
+Lithuania	36.51	2019
+Nepal	36.44	2019
+Norway	35.32	2019
+Hungary	35.17	2019
+Brunei	34.77	2019
+Germany	34.51	2019
+South Korea	34.05	2019
+Kuwait	33.91	2019
+Malta	33.53	2019
+Bahrain	32.87	2019
+Spain	32.46	2019
+Israel	32.16	2019
+Portugal	32.13	2019
+Azerbaijan	31.67	2019
+Poland	30.09	2019
+Saudi Arabia	29.73	2019
+Slovakia	29.54	2019
+Cyprus	29.31	2019
+Luxembourg	29.07	2019
+Netherlands	28.57	2019
+Romania	27.84	2019
+Czech Republic	26.66	2019
+Croatia	24.69	2019
+Denmark	24.25	2019
+Belarus	23.53	2019
+Iceland	23.28	2019
+Oman	22.83	2019
+Finland	22.80	2019
+Slovenia	22.57	2019
+Armenia	22.00	2019
+Switzerland	21.50	2019
+Singapore	21.47	2019
+Austria	21.37	2019
+Estonia	20.80	2019
+Georgia	19.86	2019
+Hong Kong	19.32	2019
+Taiwan	17.38	2019
+United Arab Emirates	16.32	2019
+Japan	13.73	2019
+Qatar	13.26	2019
