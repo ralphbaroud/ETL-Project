@@ -1,0 +1,626 @@
+Country,Crime_Index,Crime_Rank,Year
+South Sudan,85.32,1,2015
+Venezuela,84.07,2,2015
+Guatemala,79.34,3,2015
+South Africa,78.44,4,2015
+Afghanistan,77.34,5,2015
+Guyana,76.88,6,2015
+Nigeria,76.6,7,2015
+Trinidad And Tobago,75.28,8,2015
+Honduras,74.91,9,2015
+Bahamas,72.93,10,2015
+Kenya,72.61,11,2015
+Jamaica,71.91,12,2015
+Mongolia,70.25,13,2015
+Malaysia,69.97,14,2015
+Papua New Guinea,69.89,15,2015
+Libya,69.64,16,2015
+El Salvador,69.44,17,2015
+Brazil,68.95,18,2015
+Maldives,68.75,19,2015
+Angola,67.97,20,2015
+Dominican Republic,67.72,21,2015
+Puerto Rico,67.06,22,2015
+Bolivia,65.6,23,2015
+Somalia,65.6,24,2015
+Bangladesh,64.25,25,2015
+Costa Rica,63.05,26,2015
+Argentina,62.4,27,2015
+Zimbabwe,62.18,28,2015
+Tanzania,61.8,29,2015
+Pakistan,61.16,30,2015
+Egypt,60.14,31,2015
+Uganda,59.41,32,2015
+Peru,57.63,33,2015
+Colombia,56.88,34,2015
+Syria,56.32,35,2015
+Namibia,55.59,36,2015
+Paraguay,55.57,37,2015
+Iraq,54.06,38,2015
+Ecuador,54.04,39,2015
+Mexico,53.84,40,2015
+Vietnam,52.29,41,2015
+Lebanon,51.98,42,2015
+Algeria,51.34,43,2015
+Russia,51.33,44,2015
+Iran,50.9,45,2015
+Panama,50.08,46,2015
+United States,50.01,47,2015
+Sri Lanka,49.96,48,2015
+France,49.71,49,2015
+Moldova,49.7,50,2015
+Albania,49.6,51,2015
+Fiji,49.44,52,2015
+Ghana,49.42,53,2015
+Ukraine,49.36,54,2015
+Nepal,49.18,55,2015
+Ireland,49.07,56,2015
+Mauritius,48.53,57,2015
+Morocco,47.55,58,2015
+Italy,47.5,59,2015
+Indonesia,47.22,60,2015
+Uruguay,47.17,61,2015
+Kazakhstan,46.68,62,2015
+India,46.55,63,2015
+Bosnia And Herzegovina,45.82,64,2015
+Jordan,45.51,65,2015
+Chile,45.01,66,2015
+Cambodia,44.06,67,2015
+Kuwait,43.51,68,2015
+Bulgaria,43.45,69,2015
+Serbia,43.43,70,2015
+Philippines,43.11,71,2015
+Tunisia,42.67,72,2015
+Australia,42.16,73,2015
+Sweden,42.09,74,2015
+Belgium,42.04,75,2015
+United Kingdom,42.01,76,2015
+Hungary,41.76,77,2015
+China,41.75,78,2015
+Greece,41.35,79,2015
+Bahrain,39.97,80,2015
+New Zealand,39.76,81,2015
+Canada,37.46,82,2015
+Latvia,37.22,83,2015
+Thailand,37.06,84,2015
+Lithuania,36.69,85,2015
+Turkey,36.4,86,2015
+North Macedonia,36.06,87,2015
+Portugal,35.84,88,2015
+Luxembourg,35.74,89,2015
+Azerbaijan,35.47,90,2015
+Netherlands,35.41,91,2015
+Palestine,35.39,92,2015
+Ethiopia,35.07,93,2015
+Montenegro,34.89,94,2015
+Saudi Arabia,34.57,95,2015
+Oman,34.43,96,2015
+Spain,33.85,97,2015
+Slovakia,33.34,98,2015
+Iceland,33.32,99,2015
+Poland,32.99,100,2015
+Czech Republic,32.89,101,2015
+Cyprus,31.56,102,2015
+Norway,31.19,103,2015
+Belarus,30.5,104,2015
+Israel,30.4,105,2015
+Brunei,30.35,106,2015
+Romania,29.72,107,2015
+Finland,29.55,108,2015
+Croatia,29.34,109,2015
+Armenia,29.14,110,2015
+Slovenia,28.71,111,2015
+Germany,28.49,112,2015
+Estonia,28.13,113,2015
+Switzerland,26.77,114,2015
+Austria,26.25,115,2015
+Malta,25.91,116,2015
+Denmark,25.71,117,2015
+United Arab Emirates,22.22,118,2015
+Georgia,22.01,119,2015
+Taiwan,21.88,120,2015
+Qatar,21.04,121,2015
+Japan,20.24,122,2015
+Hong Kong,19.24,123,2015
+South Korea,17.99,124,2015
+Singapore,17.59,125,2015
+Venezuela,84.44,1,2016
+South Sudan,81.32,2,2016
+South Africa,78.43,3,2016
+Afghanistan,77.92,4,2016
+Papua New Guinea,77.58,5,2016
+Honduras,76.43,6,2016
+Nigeria,74.14,7,2016
+Trinidad And Tobago,72.6,8,2016
+Guyana,72.12,9,2016
+El Salvador,72.04,10,2016
+Brazil,71.23,11,2016
+Kenya,69.49,12,2016
+Bahamas,69.41,13,2016
+Bangladesh,68.56,14,2016
+Malaysia,68.55,15,2016
+Angola,66.95,16,2016
+Puerto Rico,65.92,17,2016
+Jamaica,65.53,18,2016
+Peru,64,19,2016
+Guatemala,63.54,20,2016
+Argentina,63.28,21,2016
+Dominican Republic,63.25,22,2016
+Namibia,60.89,23,2016
+Tanzania,60.02,24,2016
+Zimbabwe,60.02,25,2016
+Uganda,59.31,26,2016
+Libya,57.81,27,2016
+Mongolia,57.76,28,2016
+Algeria,57.58,29,2016
+Costa Rica,57.56,30,2016
+Pakistan,56.63,31,2016
+Bolivia,56.56,32,2016
+Egypt,56.53,33,2016
+Somalia,55.72,34,2016
+Vietnam,55.69,35,2016
+Syria,54.73,36,2016
+Mauritius,53.69,37,2016
+Uruguay,53.06,38,2016
+Ecuador,52.95,39,2016
+Panama,52.69,40,2016
+Paraguay,52.5,41,2016
+Fiji,52.42,42,2016
+Iran,52.37,43,2016
+Iraq,51.51,44,2016
+Mexico,50.8,45,2016
+Lebanon,50.56,46,2016
+Morocco,50.28,47,2016
+Ghana,49.01,48,2016
+United States,48.87,49,2016
+Ukraine,48.62,50,2016
+Colombia,48.51,51,2016
+Ireland,48.39,52,2016
+Cambodia,48.17,53,2016
+Moldova,48.16,54,2016
+Albania,48.15,55,2016
+Montenegro,47.8,56,2016
+Russia,47.31,57,2016
+Indonesia,46.97,58,2016
+Jordan,46.89,59,2016
+India,46.59,60,2016
+Sri Lanka,46.26,61,2016
+Italy,46.22,62,2016
+Kazakhstan,45.88,63,2016
+Belgium,45.19,64,2016
+Maldives,45.02,65,2016
+France,44.06,66,2016
+Serbia,43.28,67,2016
+Lithuania,43.15,68,2016
+United Kingdom,43.13,69,2016
+Sweden,43.12,70,2016
+Australia,43.12,71,2016
+Thailand,42.56,72,2016
+Bosnia And Herzegovina,42.46,73,2016
+Nepal,42.15,74,2016
+Chile,42,75,2016
+Hungary,41.93,76,2016
+Bulgaria,41.42,77,2016
+Turkey,39.43,78,2016
+Canada,39.2,79,2016
+Tunisia,38.9,80,2016
+Greece,38.46,81,2016
+North Macedonia,38.02,82,2016
+Latvia,37.79,83,2016
+Philippines,37.61,84,2016
+Bahrain,37.26,85,2016
+Brunei,36.96,86,2016
+Palestine,36.9,87,2016
+New Zealand,36.37,88,2016
+Kuwait,36.04,89,2016
+Luxembourg,36.03,90,2016
+Portugal,35.13,91,2016
+Ethiopia,34.19,92,2016
+Slovakia,33.49,93,2016
+Germany,32.95,94,2016
+Azerbaijan,32.39,95,2016
+China,32.08,96,2016
+Czech Republic,32.06,97,2016
+Spain,31.77,98,2016
+Netherlands,31.47,99,2016
+Poland,31.41,100,2016
+Armenia,31.11,101,2016
+Israel,30.63,102,2016
+Cyprus,30.19,103,2016
+Norway,30.11,104,2016
+Iceland,29.89,105,2016
+Romania,29.72,106,2016
+Croatia,29.51,107,2016
+Oman,28.98,108,2016
+Finland,28.12,109,2016
+Belarus,27.57,110,2016
+Malta,26.73,111,2016
+Slovenia,26.27,112,2016
+Switzerland,25.73,113,2016
+Denmark,25.67,114,2016
+Saudi Arabia,25.2,115,2016
+Estonia,24.67,116,2016
+Austria,24.06,117,2016
+United Arab Emirates,23.08,118,2016
+Qatar,22.34,119,2016
+Georgia,22.16,120,2016
+Taiwan,21.21,121,2016
+Hong Kong,20.85,122,2016
+Japan,19.34,123,2016
+Singapore,15.81,124,2016
+South Korea,14.31,125,2016
+Venezuela,85.28,1,2017
+Papua New Guinea,82.38,2,2017
+Honduras,78.34,3,2017
+South Sudan,78.18,4,2017
+South Africa,75.72,5,2017
+Afghanistan,73.85,6,2017
+El Salvador,71.57,7,2017
+Nigeria,70.87,8,2017
+Brazil,70.62,9,2017
+Trinidad And Tobago,70.15,10,2017
+Puerto Rico,69.19,11,2017
+Guyana,67.66,12,2017
+Mongolia,67.62,13,2017
+Jamaica,67.48,14,2017
+Bangladesh,67.24,15,2017
+Syria,66.34,16,2017
+Angola,65.51,17,2017
+Kenya,64.96,18,2017
+Malaysia,64.75,19,2017
+Peru,63.28,20,2017
+Bahamas,63.21,21,2017
+Namibia,63.09,22,2017
+Argentina,62.63,23,2017
+Dominican Republic,62.62,24,2017
+Tanzania,61.39,25,2017
+Guatemala,59.58,26,2017
+Bolivia,59.5,27,2017
+Somalia,58.83,28,2017
+Uganda,56.87,29,2017
+Costa Rica,55.94,30,2017
+Fiji,55.6,31,2017
+Cambodia,54.61,32,2017
+Libya,54.47,33,2017
+Pakistan,54.38,34,2017
+Iraq,54.35,35,2017
+Zimbabwe,53.46,36,2017
+Vietnam,52.96,37,2017
+Egypt,52.86,38,2017
+Colombia,51.69,39,2017
+Uruguay,51.64,40,2017
+Ukraine,51.27,41,2017
+Mauritius,51.13,42,2017
+Iran,50.9,43,2017
+Ecuador,50.88,44,2017
+Mexico,50.32,45,2017
+Panama,50.01,46,2017
+Thailand,49.78,47,2017
+Indonesia,49.68,48,2017
+Algeria,49.63,49,2017
+Paraguay,49.6,50,2017
+Ethiopia,49.18,51,2017
+Lebanon,49.16,52,2017
+Morocco,48.89,53,2017
+United States,48.76,54,2017
+Kazakhstan,48.29,55,2017
+Chile,47.5,56,2017
+Ghana,46.99,57,2017
+Maldives,46.98,58,2017
+Sweden,46.65,59,2017
+Russia,46.05,60,2017
+Ireland,45.77,61,2017
+Norway,45.69,62,2017
+Moldova,45.35,63,2017
+Italy,44.66,64,2017
+Belgium,44.51,65,2017
+Albania,44.27,66,2017
+India,43.96,67,2017
+France,43.66,68,2017
+Jordan,43.14,69,2017
+Australia,42.42,70,2017
+United Kingdom,41.19,71,2017
+Turkey,41.09,72,2017
+Bosnia And Herzegovina,40.97,73,2017
+Tunisia,40.94,74,2017
+Greece,40.32,75,2017
+Bulgaria,40.18,76,2017
+Lithuania,40.03,77,2017
+Philippines,39.77,78,2017
+Canada,39.25,79,2017
+New Zealand,38.78,80,2017
+Montenegro,38.67,81,2017
+North Macedonia,38.66,82,2017
+Serbia,38.62,83,2017
+Hungary,38.39,84,2017
+Palestine,38.01,85,2017
+Nepal,37.15,86,2017
+Latvia,36.45,87,2017
+Brunei,36.07,88,2017
+Portugal,35.39,89,2017
+Bahrain,35.35,90,2017
+Sri Lanka,34.57,91,2017
+China,33.9,92,2017
+Kuwait,33.48,93,2017
+Cyprus,32.46,94,2017
+Germany,32.03,95,2017
+Poland,31.53,96,2017
+Spain,31.28,97,2017
+Malta,30.56,98,2017
+Czech Republic,30.18,99,2017
+Slovakia,30.18,100,2017
+Netherlands,29.89,101,2017
+Luxembourg,29.04,102,2017
+Israel,29.01,103,2017
+Romania,27.95,104,2017
+Croatia,27.8,105,2017
+Iceland,27.49,106,2017
+Armenia,27.08,107,2017
+Azerbaijan,27.05,108,2017
+South Korea,25.27,109,2017
+Finland,24.63,110,2017
+Oman,24.47,111,2017
+Slovenia,24.05,112,2017
+Saudi Arabia,23.65,113,2017
+Estonia,23,114,2017
+Switzerland,22.45,115,2017
+Belarus,22.26,116,2017
+Denmark,21.13,117,2017
+Japan,20.89,118,2017
+Georgia,20.83,119,2017
+Hong Kong,20.68,120,2017
+United Arab Emirates,20.66,121,2017
+Austria,19.25,122,2017
+Taiwan,17.24,123,2017
+Singapore,16.58,124,2017
+Qatar,15.7,125,2017
+Venezuela,82.59,1,2018
+Papua New Guinea,79.95,2,2018
+Honduras,78.89,3,2018
+South Sudan,75.94,4,2018
+South Africa,75.71,5,2018
+Afghanistan,74.4,6,2018
+Trinidad And Tobago,72.22,7,2018
+Brazil,70.55,8,2018
+El Salvador,69.72,9,2018
+Bangladesh,68.52,10,2018
+Namibia,68.22,11,2018
+Syria,67.74,12,2018
+Jamaica,66.87,13,2018
+Puerto Rico,64.94,14,2018
+Angola,64.53,15,2018
+Peru,63.91,16,2018
+Guyana,63.47,17,2018
+Nigeria,63.12,18,2018
+Malaysia,63.05,19,2018
+Mongolia,62.56,20,2018
+Argentina,61.79,21,2018
+Dominican Republic,61.53,22,2018
+Bahamas,60.16,23,2018
+Tanzania,59.83,24,2018
+Kenya,59.77,25,2018
+Guatemala,59.35,26,2018
+Fiji,58.95,27,2018
+Somalia,57.5,28,2018
+Uganda,56.77,29,2018
+Libya,56.74,30,2018
+Zimbabwe,54.56,31,2018
+Cambodia,54.38,32,2018
+Costa Rica,53.89,33,2018
+Egypt,53.72,34,2018
+Bolivia,52.89,35,2018
+Vietnam,52.22,36,2018
+Uruguay,51.83,37,2018
+Maldives,51.7,38,2018
+Pakistan,51.23,39,2018
+Mexico,51.05,40,2018
+Algeria,50.68,41,2018
+Colombia,50.66,42,2018
+United States,49.58,43,2018
+Iran,49.4,44,2018
+Ukraine,49.39,45,2018
+Sweden,49.26,46,2018
+Ecuador,49.18,47,2018
+Lebanon,49.16,48,2018
+Kazakhstan,49.15,49,2018
+Morocco,48.51,50,2018
+Panama,48.35,51,2018
+Mauritius,48.31,52,2018
+Ethiopia,47.67,53,2018
+Thailand,47.25,54,2018
+Paraguay,46.86,55,2018
+Chile,46.48,56,2018
+Moldova,45.66,57,2018
+France,45.29,58,2018
+Russia,45.2,59,2018
+Ghana,45,60,2018
+Indonesia,44.72,61,2018
+Jordan,44.55,62,2018
+Italy,44.53,63,2018
+India,44.16,64,2018
+Ireland,43.82,65,2018
+Iraq,43.34,66,2018
+Norway,43.33,67,2018
+Australia,42.55,68,2018
+Belgium,42.17,69,2018
+Sri Lanka,41.75,70,2018
+United Kingdom,41.2,71,2018
+Turkey,41.06,72,2018
+Tunisia,40.43,73,2018
+North Macedonia,40.21,74,2018
+Philippines,40.13,75,2018
+Bosnia And Herzegovina,40.05,76,2018
+Albania,39.87,77,2018
+Bulgaria,39.7,78,2018
+Nepal,39.51,79,2018
+China,39.44,80,2018
+Canada,39.28,81,2018
+New Zealand,39.15,82,2018
+Greece,39.07,83,2018
+Palestine,37.95,84,2018
+Serbia,37.76,85,2018
+Lithuania,37.59,86,2018
+Montenegro,37.51,87,2018
+Kuwait,37.03,88,2018
+Bahrain,36.96,89,2018
+Israel,36.9,90,2018
+Latvia,36.89,91,2018
+Spain,36.74,92,2018
+Saudi Arabia,36.69,93,2018
+Germany,36.65,94,2018
+Hungary,36.51,95,2018
+Poland,36.23,96,2018
+South Korea,35.83,97,2018
+Brunei,35.41,98,2018
+Portugal,34.54,99,2018
+Luxembourg,32.12,100,2018
+Malta,31.93,101,2018
+Azerbaijan,30.52,102,2018
+Cyprus,30.18,103,2018
+Slovakia,30.15,104,2018
+Romania,29.04,105,2018
+Netherlands,28.94,106,2018
+Czech Republic,28.81,107,2018
+Armenia,28.28,108,2018
+Oman,27.37,109,2018
+Croatia,27,110,2018
+Belarus,26.55,111,2018
+Slovenia,24.71,112,2018
+Iceland,24.49,113,2018
+Finland,23.7,114,2018
+Denmark,22.02,115,2018
+Switzerland,21.76,116,2018
+Hong Kong,20.9,117,2018
+Estonia,20.83,118,2018
+Taiwan,20.74,119,2018
+Austria,20.41,120,2018
+Georgia,20.35,121,2018
+United Arab Emirates,18.75,122,2018
+Singapore,16.23,123,2018
+Qatar,15.7,124,2018
+Japan,13.1,125,2018
+Venezuela,83.23,1,2019
+Papua New Guinea,79.88,2,2019
+Honduras,76.84,3,2019
+South Africa,76.8,4,2019
+Afghanistan,76.63,5,2019
+South Sudan,75.94,6,2019
+Trinidad And Tobago,74.04,7,2019
+Brazil,70.24,8,2019
+Namibia,68.66,9,2019
+El Salvador,68.08,10,2019
+Kazakhstan,66.51,11,2019
+Bangladesh,65.82,12,2019
+Puerto Rico,65.53,13,2019
+Peru,65.28,14,2019
+Jamaica,65.28,15,2019
+Nigeria,64.41,16,2019
+Syria,63.59,17,2019
+Angola,63.57,18,2019
+Argentina,62.55,19,2019
+Fiji,62.5,20,2019
+Dominican Republic,61.35,21,2019
+Malaysia,60.79,22,2019
+Somalia,60.1,23,2019
+Mongolia,59.76,24,2019
+Guyana,59.55,25,2019
+Libya,59.18,26,2019
+Tanzania,59.01,27,2019
+Bahamas,57.25,28,2019
+Costa Rica,56.05,29,2019
+Guatemala,55.92,30,2019
+Kenya,54.82,31,2019
+Maldives,53.29,32,2019
+Bolivia,53.29,33,2019
+Uganda,53.27,34,2019
+Mexico,52.3,35,2019
+Uruguay,52.01,36,2019
+Ghana,51.95,37,2019
+Zimbabwe,51.8,38,2019
+Cambodia,51.28,39,2019
+Colombia,51.26,40,2019
+Egypt,50.71,41,2019
+Morocco,50.24,42,2019
+Sweden,49.35,43,2019
+Iran,49.33,44,2019
+Ecuador,48.98,45,2019
+Ukraine,48.88,46,2019
+Vietnam,48.78,47,2019
+Algeria,48.33,48,2019
+Ethiopia,47.18,49,2019
+United States,47.13,50,2019
+Mauritius,46.81,51,2019
+Chile,46.81,52,2019
+Pakistan,46.73,53,2019
+Thailand,46.66,54,2019
+Panama,46.43,55,2019
+France,46.39,56,2019
+Indonesia,46.01,57,2019
+Iraq,45.56,58,2019
+China,45.46,59,2019
+Moldova,45.45,60,2019
+Italy,45.02,61,2019
+Ireland,44.52,62,2019
+Paraguay,44.27,63,2019
+Lebanon,44.27,64,2019
+Jordan,43.82,65,2019
+Bosnia And Herzegovina,43.79,66,2019
+Australia,42.76,67,2019
+India,42.72,68,2019
+United Kingdom,42.72,69,2019
+Belgium,42.46,70,2019
+Tunisia,42.29,71,2019
+Russia,41.93,72,2019
+Sri Lanka,41.03,73,2019
+Philippines,40.83,74,2019
+Montenegro,40.48,75,2019
+Turkey,40.38,76,2019
+Albania,40.3,77,2019
+Bulgaria,40,78,2019
+New Zealand,39.55,79,2019
+Canada,39.51,80,2019
+North Macedonia,39.29,81,2019
+Greece,38.57,82,2019
+Serbia,37.27,83,2019
+Palestine,36.99,84,2019
+Latvia,36.77,85,2019
+Lithuania,36.51,86,2019
+Nepal,36.44,87,2019
+Norway,35.32,88,2019
+Hungary,35.17,89,2019
+Brunei,34.77,90,2019
+Germany,34.51,91,2019
+South Korea,34.05,92,2019
+Kuwait,33.91,93,2019
+Malta,33.53,94,2019
+Bahrain,32.87,95,2019
+Spain,32.46,96,2019
+Israel,32.16,97,2019
+Portugal,32.13,98,2019
+Azerbaijan,31.67,99,2019
+Poland,30.09,100,2019
+Saudi Arabia,29.73,101,2019
+Slovakia,29.54,102,2019
+Cyprus,29.31,103,2019
+Luxembourg,29.07,104,2019
+Netherlands,28.57,105,2019
+Romania,27.84,106,2019
+Czech Republic,26.66,107,2019
+Croatia,24.69,108,2019
+Denmark,24.25,109,2019
+Belarus,23.53,110,2019
+Iceland,23.28,111,2019
+Oman,22.83,112,2019
+Finland,22.8,113,2019
+Slovenia,22.57,114,2019
+Armenia,22,115,2019
+Switzerland,21.5,116,2019
+Singapore,21.47,117,2019
+Austria,21.37,118,2019
+Estonia,20.8,119,2019
+Georgia,19.86,120,2019
+Hong Kong,19.32,121,2019
+Taiwan,17.38,122,2019
+United Arab Emirates,16.32,123,2019
+Japan,13.73,124,2019
+Qatar,13.26,125,2019
